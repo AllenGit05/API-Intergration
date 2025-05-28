@@ -69,7 +69,7 @@ This task demonstrated the complete process of accessing a public API, extractin
 
 The project serves as a great example of combining Python programming, data handling, and visual storytelling through code. It’s a useful starting point for developers interested in building dashboards or working with external APIs in Python.
 
-## Example Output
+## Output
 The script opens a visualization window with two side-by-side plots:
 
 Left Plot: Temperature vs Time
