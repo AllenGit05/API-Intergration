@@ -76,7 +76,7 @@ Left Plot: Temperature vs Time
 
 Right Plot: Humidity vs Time
 
-
+![Image](https://github.com/user-attachments/assets/c2b965ca-ffb7-4e9f-bf7a-505b7295f9f7)
 
 ## License
 This project is free to use and modify for educational purposes.
