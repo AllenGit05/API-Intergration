@@ -1,4 +1,4 @@
-# API-Intergration
+# 🌦️ Weather Dashboard – API Integration and Data Visualization
 
 **COMPANY**: CODTECH IT SOLUTION
 
@@ -11,8 +11,6 @@
 **MENTOR**: NEELA SANTOSH
 
 # DESCRIPTION OF TASK LIKE HOW YOU PERFORMED AND WHAT YOU HAVE DONE AND PASTE PICTURES OF OUTPUT
-
-# 🌦️ Weather Dashboard – API Integration and Data Visualization
 
 ## Overview
 This project demonstrates how to integrate a public API using Python and visualize real-time weather data. It fetches 5-day weather forecasts using the **OpenWeatherMap API** and creates visualizations using **Matplotlib** and **Seaborn**.
