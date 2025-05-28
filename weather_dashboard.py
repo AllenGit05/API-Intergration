@@ -3,9 +3,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime
 
-API_KEY = '05f18e650b9f73117e5aed357fc59ec2'  # Your API key
-CITY = 'London'                               # You can change this to any city you like
-UNITS = 'metric'                              # 'metric' = Celsius, 'imperial' = Fahrenheit
+API_KEY = 'YOUR_API_KEY_HERE'   # Your API key
+CITY = 'London'                 # You can change this to any city you like
+UNITS = 'metric'                # 'metric' = Celsius, 'imperial' = Fahrenheit
 
 URL = f'https://api.openweathermap.org/data/2.5/forecast?q={CITY}&appid={API_KEY}&units={UNITS}'
 
